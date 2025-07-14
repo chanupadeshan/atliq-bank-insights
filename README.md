@@ -99,6 +99,6 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels
 ```
 
 ---
-**Author:** [Your Name]
+**Author:** Chanupa Deshan Munassinghe
 
 **Note:** This project is for educational and demonstration purposes only. All data is synthetic.
